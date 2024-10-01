@@ -20,7 +20,7 @@
 
 
 # Discription
-Basic Q&A
+BasicQ&A
 
 # Installation
 Codes
@@ -38,17 +38,17 @@ DC
 Terminal
     
 # Content
-DC
+Collecting Data
 
 ## Questions
 
 -----------------------------------------
 
 # GitHub 
-WashingtonUCF; https://github.com/WashingtonUCF/
+WashintonUCF; https://github.com/WashingtonUCF/
 
 # Email
-Alphatechsystemsmail@gmail.com is where you can reach me if you have additional questions.
+alphatechsystemsmail@gmail.com is where you can reach me if you have additional questions.
   
 
 
